@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css">
+    <script src="jquery-3.3.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#btn1").click(function () {
+                $("p").append("<b>Eklenen Metin</b> ");
+            });
+            $("#btn2").click(function () {
+                $("ol").append("<li>Eklenen Eleman</li>");
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+    <p>Birinci Satır</p>
+    <p>İkinci Satır</p>
+    <ol>
+        <li>1.Eklenen Eleman</li>
+        <li>2.Eklenen Eleman</li>
+    </ol>
+    <button id="btn1">Metin Ekle</button>
+    <button id="btn2">Eleman Ekle</button>
+</body>
+
+</html>
