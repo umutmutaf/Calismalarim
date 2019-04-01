@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Sayısal Loto</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="loto.css">
+    <script src="jquery-3.3.1.min.js"></script>
+    
+    <script>
+        $(document).ready(function () {
+            for (i = 1; i < 50; i++) {
+                $("body").append("<div id=" + i + " class='top'>" + i + '</div>');
+            }
+        });
+        function oyna() {
+            var toplar = new Array(), sayi=0, sayac = 0;
+            yenile();
+            while (sayac <= 6) {
+                while (toplar.includes(sayi) == true) {
+                    sayi = Math.floor(Math.random() * 49) + 1;
+                }
+                toplar[sayac] = sayi;
+                $('#' + sayi).attr("class", "seciliTop");
+                sayac++;
+            };
+        };
+        function yenile() {
+            $("div").attr("class", "top")
+        }
+    </script>
+
+</head>
+
+<body>
+    <button id="oyna" class="buton" onclick="oyna()">Oyna</button><br>
+</body>
+
+</html>
