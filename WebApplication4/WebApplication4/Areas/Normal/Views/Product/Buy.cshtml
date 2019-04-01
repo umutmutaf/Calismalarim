@@ -1,0 +1,61 @@
+﻿@model WebApplication4.Areas.Normal.Models.NormalUserProductModel
+
+@{
+    ViewBag.Title = "Buy";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Buy</h2>
+
+<div>
+    <h4>NormalUserProductModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            Ürün Görseli
+        </dt>
+
+        <dd>
+            <img src="@Model.ImgUrl" />
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StockEntranceDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StockEntranceDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.StockQuantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StockQuantity)
+        </dd>
+    </dl>
+</div>
+@using (Html.BeginForm())
+{
+    <input type="hidden" name="productId" value="@Model.ProductId" />
+    <input name="satinAlmaAdedi" type="number" class="form-control" max="@Model.StockQuantity" min="1" />
+    <input type="submit" type="number" class="btn btn-success" value="Satın Almayı Onayla" />
+
+}

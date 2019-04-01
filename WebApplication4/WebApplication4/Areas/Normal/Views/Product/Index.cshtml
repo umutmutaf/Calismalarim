@@ -1,0 +1,26 @@
+﻿@model IEnumerable<WebApplication4.Areas.Normal.Models.NormalUserProductModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+    <div class="col-md-4 col-xs-6" style="border:1px solid black">
+        <div style="height:10%; text-align:center">
+            <h3>@product.Name</h3>
+        </div>
+        <div style="height:70%">
+            <img src="@product.ImgUrl" />
+        </div>
+        <div style="height:20%; text-align:center">
+            <b>@product.Price Tl</b>
+            <br />
+            @Html.ActionLink("Satın Al","Buy",new { id=product.ProductId}, new { @class="btn btn-Info"})
+        </div>
+    </div>
+    }
+</div>
+

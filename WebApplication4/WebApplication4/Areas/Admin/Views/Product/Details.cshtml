@@ -1,0 +1,76 @@
+﻿@model WebApplication4.Areas.Admin.Models.ProductStockModel
+<!-- Modal -->
+
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Modal Header</h4>
+            </div>
+            <div class="modal-body">
+                <p>Some text in the modal.</p>
+                <div>
+                    <h4>ProductStockModel</h4>
+                    <hr />
+                    <dl class="dl-horizontal">
+                        <dt>
+                            @Html.DisplayNameFor(model => model.ProductId)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.ProductId)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Name)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Name)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Price)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Price)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.ImgUrl)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.ImgUrl)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.StockEntranceDate)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.StockEntranceDate)
+                        </dd>
+
+                    </dl>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+

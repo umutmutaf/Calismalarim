@@ -1,0 +1,115 @@
+﻿@model IEnumerable<WebApplication4.Areas.Admin.Models.ProductStockModel>
+
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create",new {isModal=true }, new
+{
+    @class = "btn btn-success",
+    data_ajax = "true",
+    data_ajax_method = "GET",
+    data_ajax_mode = "replace",
+    data_ajax_update = "#createModal",
+    data_toggle = "modal",
+    data_target = "#createModal"
+})
+</p>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImgUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StockEntranceDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ImgUrl)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StockEntranceDate)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.ProductId },
+                   new {
+                       @class ="btn btn-primary",
+                       data_ajax="true",
+                       data_ajax_method="GET",
+                       data_ajax_mode="replace",
+                       data_ajax_update="#editModal",
+                       data_toggle="modal",
+                       data_target="#editModal"
+                   }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.ProductId },
+                   new
+                   {
+                       @class = "btn btn-info",
+                       data_ajax = "true",
+                       data_ajax_method = "GET",
+                       data_ajax_mode = "replace",
+                       data_ajax_update = "#detailModal",
+                       data_toggle = "modal",
+                       data_target = "#detailModal"
+                   }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ProductId },
+                   new { @class="btn btn-danger",
+                       onclick= "return confirm('Are u sure to delete this data ?');"})
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<section name="modals">
+    <!-- Modal -->
+    <div id="detailModal" class="modal fade" role="dialog">
+
+    </div>
+    <!-- Modal -->
+    <div id="editModal" class="modal fade" role="dialog">
+
+    </div>
+    <!-- Modal -->
+    <div id="createModal" class="modal fade" role="dialog">
+
+    </div>
+</section>
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            $('#productTable').DataTable();
+        });
+    </script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+}
