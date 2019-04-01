@@ -1,0 +1,63 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    List<mvcModal.Models.Product> _products = Session["products"] as List<mvcModal.Models.Product>;
+}
+
+<style>
+    .urunAdi{
+        height:15%;
+    }
+    .urunImage {
+        height: 60%;
+    }
+    .urunImage img {
+        width: 100%;
+        height: 100%;
+        max-height:100%;
+        max-width:100%;
+    }
+    .urunFiyat {
+        height: 10%;
+    }
+    .urunDiv{
+        height:300px;
+        text-align:center;
+        border:1px solid #999;
+        margin-top:2%;
+    }
+    .urunBtn {
+        height: 15%;
+    }
+</style>
+
+<div class="row">
+    @foreach (var product in _products)
+    {
+    <div class="col-md-4 col-sm-6 col-xs-6 urunDiv">
+        <div class="urunAdi">
+            <h4>@product.ProductName</h4>
+        </div>
+
+        <div class="urunImage">
+            <img src='@product.ImagePath' />
+        </div>
+
+        <div class="urunFiyat">
+            <h5>@product.Price TL</h5>
+        </div>
+
+        <div class="urunBtn">
+            @Html.ActionLink("Detayını Gör", "UrunDetay", new { id=product.Id},
+           new
+           {
+               @class = "btn btn-info"
+           })
+        </div>
+    </div>
+    }
+
+</div>
+
+
+

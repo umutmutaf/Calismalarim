@@ -1,0 +1,18 @@
+﻿@model AreaExample.Models.User
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Login</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.EditorFor(model => model.Username, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+    <input type="checkbox" name="rememberMe"/>
+    <p style="float:left;margin-right:1%">Beni Hatırla</p>
+    <br />
+    <input type="submit" value="Giriş Yap" class="btn btn-default"/>
+}

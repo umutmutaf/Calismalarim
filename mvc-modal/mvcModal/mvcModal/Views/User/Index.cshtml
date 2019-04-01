@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    var currentUser = Session["currentUser"] as mvcModal.Models.User;
+}
+@if (currentUser == null/*kullanıcı giriş yapmamış*/)
+{
+    <div>
+        @Html.ActionLink("Giriş Yap", "Login", null,
+        new
+        {
+        @class = "btn btn-default"
+        })
+    </div>
+}
+else/*kullanıcı girş yapmışsa*/
+{
+    <h1>Hoşgeldin @currentUser.Username</h1>
+    <div>
+        @Html.ActionLink("Çıkış Yap", "LogOut", null,
+        new
+        {
+            @class = "btn btn-default",
+            onclick = "return confirm('Çıkış yapmak istediğinizden emin misiniz ? ');"
+        })
+    </div>
+}
+  

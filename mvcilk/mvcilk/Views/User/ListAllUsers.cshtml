@@ -1,0 +1,67 @@
+﻿@model IEnumerable<mvcilk.Models.User>
+
+@{
+    ViewBag.Title = "ListAllUsers";
+}
+
+
+<p>
+    @Html.ActionLink("Create New", "CreateUser")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Age)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in TempData["kullanicilar"] as List<mvcilk.Models.User>)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.ActionLink("Güncelle", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Kullanıcı Detayları", "UserDetails", new { id = item.Id },
+               new {
+                   //view ı modalımıza gömebilmek için alttaki dörtlü
+                   @class ="btn btn-info",
+                   data_ajax ="true",
+                   data_ajax_method ="GET",
+                   data_ajax_mode ="replace",
+                   data_ajax_update ="#detailModal",
+                   //modalı açıp kapatmak için alttaki ikili
+                   data_toggle="modal",
+                   data_target="#detailModal"
+                   }) |
+                @Html.ActionLink("Sil", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<!-- Modal -->
+<div id="detailModal" class="modal fade" role="dialog">
+    
+</div>
+
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+@Html.Raw(TempData["alertyazilacak"])

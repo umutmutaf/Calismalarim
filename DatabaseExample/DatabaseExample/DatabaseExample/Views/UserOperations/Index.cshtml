@@ -1,0 +1,22 @@
+﻿@model IEnumerable<DatabaseExample.Models.UserProductModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="row">
+    @foreach (var upm in Model)
+    {
+    <div class="col-md-4 col-xs-6" style="box-shadow:0 2px 2px #ccc;padding:8px 16px; display:flex; flex-flow:column">
+            @upm.ProductName
+            <br />
+            @upm.Price TL
+            <br />
+            @upm.Quantity
+            <br />
+            @upm.CategoryName
+            <br />
+            @Html.ActionLink("Sepete Ekle", "AddToCart", new { id = upm.ProductId }, new { @class="btn btn-info"})
+    </div>
+    }
+
+</div>
