@@ -1,0 +1,7 @@
+E:\Umut\Umut C#\diziler\diziler\bin\Debug\diziler.exe.config
+E:\Umut\Umut C#\diziler\diziler\bin\Debug\diziler.exe
+E:\Umut\Umut C#\diziler\diziler\bin\Debug\diziler.pdb
+E:\Umut\Umut C#\diziler\diziler\obj\Debug\diziler.csprojAssemblyReference.cache
+E:\Umut\Umut C#\diziler\diziler\obj\Debug\diziler.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\diziler\diziler\obj\Debug\diziler.exe
+E:\Umut\Umut C#\diziler\diziler\obj\Debug\diziler.pdb

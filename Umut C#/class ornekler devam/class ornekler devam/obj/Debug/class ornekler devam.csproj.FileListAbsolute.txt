@@ -1,0 +1,7 @@
+E:\Umut\Umut C#\class ornekler devam\class ornekler devam\bin\Debug\class ornekler devam.exe.config
+E:\Umut\Umut C#\class ornekler devam\class ornekler devam\bin\Debug\class ornekler devam.exe
+E:\Umut\Umut C#\class ornekler devam\class ornekler devam\bin\Debug\class ornekler devam.pdb
+E:\Umut\Umut C#\class ornekler devam\class ornekler devam\obj\Debug\class ornekler devam.csprojAssemblyReference.cache
+E:\Umut\Umut C#\class ornekler devam\class ornekler devam\obj\Debug\class ornekler devam.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\class ornekler devam\class ornekler devam\obj\Debug\class ornekler devam.exe
+E:\Umut\Umut C#\class ornekler devam\class ornekler devam\obj\Debug\class ornekler devam.pdb

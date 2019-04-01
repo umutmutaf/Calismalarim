@@ -1,0 +1,7 @@
+E:\Umut\Umut C#\LINQ ornekler\LINQ ornekler\bin\Debug\LINQ ornekler.exe.config
+E:\Umut\Umut C#\LINQ ornekler\LINQ ornekler\bin\Debug\LINQ ornekler.exe
+E:\Umut\Umut C#\LINQ ornekler\LINQ ornekler\bin\Debug\LINQ ornekler.pdb
+E:\Umut\Umut C#\LINQ ornekler\LINQ ornekler\obj\Debug\LINQ ornekler.csprojAssemblyReference.cache
+E:\Umut\Umut C#\LINQ ornekler\LINQ ornekler\obj\Debug\LINQ ornekler.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\LINQ ornekler\LINQ ornekler\obj\Debug\LINQ ornekler.exe
+E:\Umut\Umut C#\LINQ ornekler\LINQ ornekler\obj\Debug\LINQ ornekler.pdb

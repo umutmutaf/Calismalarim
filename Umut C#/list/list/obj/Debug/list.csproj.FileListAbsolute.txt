@@ -1,0 +1,7 @@
+E:\Umut\Umut C#\list\list\obj\Debug\list.csprojAssemblyReference.cache
+E:\Umut\Umut C#\list\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\list\list\bin\Debug\list.exe.config
+E:\Umut\Umut C#\list\list\bin\Debug\list.exe
+E:\Umut\Umut C#\list\list\bin\Debug\list.pdb
+E:\Umut\Umut C#\list\list\obj\Debug\list.exe
+E:\Umut\Umut C#\list\list\obj\Debug\list.pdb

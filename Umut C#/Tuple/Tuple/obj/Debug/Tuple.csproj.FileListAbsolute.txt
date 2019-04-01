@@ -1,0 +1,10 @@
+E:\Umut\Umut C#\Tuple\Tuple\bin\Debug\Tuple.exe.config
+E:\Umut\Umut C#\Tuple\Tuple\bin\Debug\Tuple.exe
+E:\Umut\Umut C#\Tuple\Tuple\bin\Debug\Tuple.pdb
+E:\Umut\Umut C#\Tuple\Tuple\obj\Debug\Tuple.csprojAssemblyReference.cache
+E:\Umut\Umut C#\Tuple\Tuple\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\Tuple\Tuple\obj\Debug\Tuple.exe
+E:\Umut\Umut C#\Tuple\Tuple\obj\Debug\Tuple.pdb
+E:\Umut\Umut C#\Tuple\Tuple\bin\Debug\System.ValueTuple.dll
+E:\Umut\Umut C#\Tuple\Tuple\bin\Debug\System.ValueTuple.xml
+E:\Umut\Umut C#\Tuple\Tuple\obj\Debug\Tuple.csproj.CopyComplete

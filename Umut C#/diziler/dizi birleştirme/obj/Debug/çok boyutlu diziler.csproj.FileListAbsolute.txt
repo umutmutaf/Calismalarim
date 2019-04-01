@@ -1,0 +1,6 @@
+E:\Umut\Umut C#\diziler\dizi birleştirme\bin\Debug\dizi birleştirme.exe.config
+E:\Umut\Umut C#\diziler\dizi birleştirme\bin\Debug\dizi birleştirme.exe
+E:\Umut\Umut C#\diziler\dizi birleştirme\bin\Debug\dizi birleştirme.pdb
+E:\Umut\Umut C#\diziler\dizi birleştirme\obj\Debug\çok boyutlu diziler.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\diziler\dizi birleştirme\obj\Debug\dizi birleştirme.exe
+E:\Umut\Umut C#\diziler\dizi birleştirme\obj\Debug\dizi birleştirme.pdb

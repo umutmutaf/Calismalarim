@@ -1,0 +1,7 @@
+E:\Umut C#\class\class oluşturma 1\class oluşturma 1\bin\Debug\class oluşturma 1.exe.config
+E:\Umut C#\class\class oluşturma 1\class oluşturma 1\bin\Debug\class oluşturma 1.exe
+E:\Umut C#\class\class oluşturma 1\class oluşturma 1\bin\Debug\class oluşturma 1.pdb
+E:\Umut C#\class\class oluşturma 1\class oluşturma 1\obj\Debug\class oluşturma-inheritance-miras alma.csprojAssemblyReference.cache
+E:\Umut C#\class\class oluşturma 1\class oluşturma 1\obj\Debug\class oluşturma-inheritance-miras alma.csproj.CoreCompileInputs.cache
+E:\Umut C#\class\class oluşturma 1\class oluşturma 1\obj\Debug\class oluşturma 1.exe
+E:\Umut C#\class\class oluşturma 1\class oluşturma 1\obj\Debug\class oluşturma 1.pdb

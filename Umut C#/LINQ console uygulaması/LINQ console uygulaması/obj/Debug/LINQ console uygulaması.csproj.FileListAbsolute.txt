@@ -1,0 +1,7 @@
+E:\Umut\Umut C#\LINQ console uygulaması\LINQ console uygulaması\obj\Debug\LINQ console uygulaması.csprojAssemblyReference.cache
+E:\Umut\Umut C#\LINQ console uygulaması\LINQ console uygulaması\obj\Debug\LINQ console uygulaması.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\LINQ console uygulaması\LINQ console uygulaması\bin\Debug\LINQ console uygulaması.exe.config
+E:\Umut\Umut C#\LINQ console uygulaması\LINQ console uygulaması\bin\Debug\LINQ console uygulaması.exe
+E:\Umut\Umut C#\LINQ console uygulaması\LINQ console uygulaması\bin\Debug\LINQ console uygulaması.pdb
+E:\Umut\Umut C#\LINQ console uygulaması\LINQ console uygulaması\obj\Debug\LINQ console uygulaması.exe
+E:\Umut\Umut C#\LINQ console uygulaması\LINQ console uygulaması\obj\Debug\LINQ console uygulaması.pdb

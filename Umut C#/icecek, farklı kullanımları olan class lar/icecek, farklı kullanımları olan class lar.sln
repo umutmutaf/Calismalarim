@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icecek, farklı kullanımları olan class lar", "icecek, farklı kullanımları olan class lar\icecek, farklı kullanımları olan class lar.csproj", "{6368A9E2-242E-4C3F-9F25-17D1159AB63A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties_field", "properties_field\Properties_field.csproj", "{2C0748FF-58D6-4767-A4C1-D11DFB3C5542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6368A9E2-242E-4C3F-9F25-17D1159AB63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6368A9E2-242E-4C3F-9F25-17D1159AB63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6368A9E2-242E-4C3F-9F25-17D1159AB63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6368A9E2-242E-4C3F-9F25-17D1159AB63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0748FF-58D6-4767-A4C1-D11DFB3C5542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0748FF-58D6-4767-A4C1-D11DFB3C5542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0748FF-58D6-4767-A4C1-D11DFB3C5542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0748FF-58D6-4767-A4C1-D11DFB3C5542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {851E9179-B510-4132-991E-31BEEC647526}
+	EndGlobalSection
+EndGlobal

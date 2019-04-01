@@ -1,0 +1,7 @@
+E:\Umut\Umut C#\icecek, farklı kullanımları olan class lar\icecek, farklı kullanımları olan class lar\bin\Debug\icecek, farklı kullanımları olan class lar.exe.config
+E:\Umut\Umut C#\icecek, farklı kullanımları olan class lar\icecek, farklı kullanımları olan class lar\bin\Debug\icecek, farklı kullanımları olan class lar.exe
+E:\Umut\Umut C#\icecek, farklı kullanımları olan class lar\icecek, farklı kullanımları olan class lar\bin\Debug\icecek, farklı kullanımları olan class lar.pdb
+E:\Umut\Umut C#\icecek, farklı kullanımları olan class lar\icecek, farklı kullanımları olan class lar\obj\Debug\icecek, farklı kullanımları olan class lar.csprojAssemblyReference.cache
+E:\Umut\Umut C#\icecek, farklı kullanımları olan class lar\icecek, farklı kullanımları olan class lar\obj\Debug\icecek, farklı kullanımları olan class lar.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\icecek, farklı kullanımları olan class lar\icecek, farklı kullanımları olan class lar\obj\Debug\icecek, farklı kullanımları olan class lar.exe
+E:\Umut\Umut C#\icecek, farklı kullanımları olan class lar\icecek, farklı kullanımları olan class lar\obj\Debug\icecek, farklı kullanımları olan class lar.pdb

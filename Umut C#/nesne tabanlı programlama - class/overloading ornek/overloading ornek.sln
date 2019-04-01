@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overloading ornek", "overloading ornek\overloading ornek.csproj", "{530EBB2F-19A3-44F8-836D-1B9E8795EA3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum ile class", "..\örnek class oluşturma\enum ile class.csproj", "{50B078B2-FC86-4EBC-B828-2A7741149059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class oluşturma poliformizm-çok biçimlilik", "..\class oluşturma 1\class oluşturma poliformizm-çok biçimlilik\class oluşturma poliformizm-çok biçimlilik.csproj", "{7BB16FFB-AACD-4E76-B586-52601AEA8893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{530EBB2F-19A3-44F8-836D-1B9E8795EA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530EBB2F-19A3-44F8-836D-1B9E8795EA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530EBB2F-19A3-44F8-836D-1B9E8795EA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530EBB2F-19A3-44F8-836D-1B9E8795EA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B078B2-FC86-4EBC-B828-2A7741149059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B078B2-FC86-4EBC-B828-2A7741149059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B078B2-FC86-4EBC-B828-2A7741149059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B078B2-FC86-4EBC-B828-2A7741149059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB16FFB-AACD-4E76-B586-52601AEA8893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB16FFB-AACD-4E76-B586-52601AEA8893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB16FFB-AACD-4E76-B586-52601AEA8893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB16FFB-AACD-4E76-B586-52601AEA8893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDF1831A-5253-4A6B-84C2-6567DB3868AC}
+	EndGlobalSection
+EndGlobal

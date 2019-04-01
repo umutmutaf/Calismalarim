@@ -1,0 +1,6 @@
+E:\Umut C#\nesne tabanlı programlama - class\örnek class oluşturma\obj\Debug\örnek class oluşturma.csproj.CoreCompileInputs.cache
+E:\Umut C#\nesne tabanlı programlama - class\örnek class oluşturma\bin\Debug\örnek class oluşturma.exe.config
+E:\Umut C#\nesne tabanlı programlama - class\örnek class oluşturma\bin\Debug\örnek class oluşturma.exe
+E:\Umut C#\nesne tabanlı programlama - class\örnek class oluşturma\bin\Debug\örnek class oluşturma.pdb
+E:\Umut C#\nesne tabanlı programlama - class\örnek class oluşturma\obj\Debug\örnek class oluşturma.exe
+E:\Umut C#\nesne tabanlı programlama - class\örnek class oluşturma\obj\Debug\örnek class oluşturma.pdb

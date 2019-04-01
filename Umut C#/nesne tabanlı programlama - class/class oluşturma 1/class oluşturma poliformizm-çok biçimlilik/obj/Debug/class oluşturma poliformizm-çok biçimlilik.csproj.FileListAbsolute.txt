@@ -1,0 +1,7 @@
+E:\Umut C#\class\class oluşturma 1\class oluşturma poliformizm\bin\Debug\class oluşturma poliformizm.exe.config
+E:\Umut C#\class\class oluşturma 1\class oluşturma poliformizm\bin\Debug\class oluşturma poliformizm.exe
+E:\Umut C#\class\class oluşturma 1\class oluşturma poliformizm\bin\Debug\class oluşturma poliformizm.pdb
+E:\Umut C#\class\class oluşturma 1\class oluşturma poliformizm\obj\Debug\class oluşturma poliformizm-çok biçimlilik.csprojAssemblyReference.cache
+E:\Umut C#\class\class oluşturma 1\class oluşturma poliformizm\obj\Debug\class oluşturma poliformizm-çok biçimlilik.csproj.CoreCompileInputs.cache
+E:\Umut C#\class\class oluşturma 1\class oluşturma poliformizm\obj\Debug\class oluşturma poliformizm.exe
+E:\Umut C#\class\class oluşturma 1\class oluşturma poliformizm\obj\Debug\class oluşturma poliformizm.pdb

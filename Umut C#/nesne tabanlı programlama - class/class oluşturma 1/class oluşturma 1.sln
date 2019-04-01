@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class oluşturma-inheritance-miras alma", "class oluşturma 1\class oluşturma-inheritance-miras alma.csproj", "{E880BC04-B0E4-4838-946C-B7D80E1C380E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class oluşturma", "..\class oluşturma\class oluşturma.csproj", "{47339949-740E-4EA1-8D50-FF0056977F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class oluşturma poliformizm-çok biçimlilik", "class oluşturma poliformizm\class oluşturma poliformizm-çok biçimlilik.csproj", "{7BB16FFB-AACD-4E76-B586-52601AEA8893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E880BC04-B0E4-4838-946C-B7D80E1C380E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E880BC04-B0E4-4838-946C-B7D80E1C380E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E880BC04-B0E4-4838-946C-B7D80E1C380E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E880BC04-B0E4-4838-946C-B7D80E1C380E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47339949-740E-4EA1-8D50-FF0056977F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47339949-740E-4EA1-8D50-FF0056977F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47339949-740E-4EA1-8D50-FF0056977F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47339949-740E-4EA1-8D50-FF0056977F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB16FFB-AACD-4E76-B586-52601AEA8893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB16FFB-AACD-4E76-B586-52601AEA8893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB16FFB-AACD-4E76-B586-52601AEA8893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB16FFB-AACD-4E76-B586-52601AEA8893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6D5B9E8-D9F1-4C4B-B26D-F4218B400387}
+	EndGlobalSection
+EndGlobal

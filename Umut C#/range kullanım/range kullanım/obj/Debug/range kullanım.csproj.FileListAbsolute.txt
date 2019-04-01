@@ -1,0 +1,7 @@
+E:\Umut\Umut C#\range kullanım\range kullanım\bin\Debug\range kullanım.exe.config
+E:\Umut\Umut C#\range kullanım\range kullanım\bin\Debug\range kullanım.exe
+E:\Umut\Umut C#\range kullanım\range kullanım\bin\Debug\range kullanım.pdb
+E:\Umut\Umut C#\range kullanım\range kullanım\obj\Debug\range kullanım.csprojAssemblyReference.cache
+E:\Umut\Umut C#\range kullanım\range kullanım\obj\Debug\range kullanım.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\range kullanım\range kullanım\obj\Debug\range kullanım.exe
+E:\Umut\Umut C#\range kullanım\range kullanım\obj\Debug\range kullanım.pdb

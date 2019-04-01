@@ -1,0 +1,7 @@
+E:\Umut\Umut C#\dictionary\dictionary\bin\Debug\dictionary.exe.config
+E:\Umut\Umut C#\dictionary\dictionary\bin\Debug\dictionary.exe
+E:\Umut\Umut C#\dictionary\dictionary\bin\Debug\dictionary.pdb
+E:\Umut\Umut C#\dictionary\dictionary\obj\Debug\dictionary.csprojAssemblyReference.cache
+E:\Umut\Umut C#\dictionary\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\dictionary\dictionary\obj\Debug\dictionary.exe
+E:\Umut\Umut C#\dictionary\dictionary\obj\Debug\dictionary.pdb

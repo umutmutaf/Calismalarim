@@ -1,0 +1,24 @@
+F:\AdoUygulama\AdoUygulama\bin\Debug\AdoUygulama.exe.config
+F:\AdoUygulama\AdoUygulama\bin\Debug\AdoUygulama.exe
+F:\AdoUygulama\AdoUygulama\bin\Debug\AdoUygulama.pdb
+F:\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.csprojAssemblyReference.cache
+F:\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.Form1.resources
+F:\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.Properties.Resources.resources
+F:\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.csproj.GenerateResource.cache
+F:\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.csproj.CoreCompileInputs.cache
+F:\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.exe
+F:\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.pdb
+F:\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.AnaSayfa.resources
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\bin\Debug\AdoUygulama.exe.config
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\bin\Debug\AdoUygulama.exe
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\bin\Debug\AdoUygulama.pdb
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.csprojAssemblyReference.cache
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.AnaSayfa.resources
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.Form1.resources
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.Properties.Resources.resources
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.csproj.GenerateResource.cache
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.exe
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.pdb
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.sqlGiris.resources
+E:\Umut\Umut C#\ado\AdoUygulama\AdoUygulama\obj\Debug\AdoUygulama.listele.resources
