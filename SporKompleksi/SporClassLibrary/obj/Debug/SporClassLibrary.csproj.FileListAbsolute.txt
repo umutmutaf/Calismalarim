@@ -1,0 +1,52 @@
+C:\Users\iau\source\repos\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.dll
+C:\Users\iau\source\repos\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.pdb
+C:\Users\iau\source\repos\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\iau\source\repos\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.dll
+C:\Users\iau\source\repos\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.pdb
+F:\Yeni klasör\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.dll
+F:\Yeni klasör\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.pdb
+F:\Yeni klasör\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csprojAssemblyReference.cache
+F:\Yeni klasör\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csproj.CoreCompileInputs.cache
+F:\Yeni klasör\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.dll
+F:\Yeni klasör\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.pdb
+C:\Users\iau\Desktop\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.dll
+C:\Users\iau\Desktop\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.pdb
+C:\Users\iau\Desktop\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csprojAssemblyReference.cache
+C:\Users\iau\Desktop\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\iau\Desktop\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.dll
+C:\Users\iau\Desktop\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.pdb
+F:\asd\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.dll
+F:\asd\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.pdb
+F:\asd\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csprojAssemblyReference.cache
+F:\asd\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csproj.CoreCompileInputs.cache
+F:\asd\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.dll
+F:\asd\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.pdb
+E:\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.dll
+E:\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.pdb
+E:\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csprojAssemblyReference.cache
+E:\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csproj.CoreCompileInputs.cache
+E:\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.dll
+E:\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.pdb
+K:\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.dll
+K:\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.pdb
+K:\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csprojResolveAssemblyReference.cache
+K:\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.dll
+K:\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.pdb
+E:\emre\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.dll
+E:\emre\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.pdb
+E:\emre\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csprojAssemblyReference.cache
+E:\emre\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csproj.CoreCompileInputs.cache
+E:\emre\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.dll
+E:\emre\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.pdb
+E:\Umut\Bitik\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.dll
+E:\Umut\Bitik\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.pdb
+E:\Umut\Bitik\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csprojAssemblyReference.cache
+E:\Umut\Bitik\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csproj.CoreCompileInputs.cache
+E:\Umut\Bitik\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.dll
+E:\Umut\Bitik\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.pdb
+E:\Umut\Umut C#\Bitik\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.dll
+E:\Umut\Umut C#\Bitik\SporKompleksi\SporClassLibrary\bin\Debug\SporClassLibrary.pdb
+E:\Umut\Umut C#\Bitik\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csprojAssemblyReference.cache
+E:\Umut\Umut C#\Bitik\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.csproj.CoreCompileInputs.cache
+E:\Umut\Umut C#\Bitik\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.dll
+E:\Umut\Umut C#\Bitik\SporKompleksi\SporClassLibrary\obj\Debug\SporClassLibrary.pdb
