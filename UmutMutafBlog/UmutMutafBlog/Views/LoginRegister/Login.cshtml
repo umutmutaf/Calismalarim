@@ -1,0 +1,18 @@
+﻿@model UmutMutafBlog.Models.UserModel
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.EditorFor(model => model.KullanıcıAdı, new { htmlAttributes = new { @class = "form-control" } })
+    @Html.EditorFor(model => model.Sifre, new { htmlAttributes = new { @class = "form-control", type = "password" } })
+    <input type="checkbox" name="remmeberMe" />
+    <p style="float:left;margin-right:1%;">Beni Hatırla</p>
+    <br />
+    <input type="submit" value="Giriş Yap" class="btn btn-default" />
+    <b style="color:red">@TempData["errorMessage"]</b>
+}

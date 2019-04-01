@@ -1,0 +1,50 @@
+﻿@model UmutMutafBlog.Models.CommentModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CommentModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.YorumTarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.YorumTarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.YorumYapanUserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.YorumYapanUserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Icerik)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Icerik)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GecerliMi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GecerliMi)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
