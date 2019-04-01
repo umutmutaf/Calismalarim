@@ -1,0 +1,57 @@
+.arka
+{
+    background-color: #124D58;
+    width: 100%;
+    height: 1000px;
+}
+.menu
+{
+background-color: #03343D;
+width: 100%;
+height: 7%;
+}
+.image-menu
+{
+    float: right;
+}
+.icerik
+{
+    background-color: #447C87;
+    width: auto;
+    height: 75%;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.kategoriler
+{
+    float: right;
+    width: 16%;
+    height: 75%;
+    background-color: #6D9BA4;
+    float: right;
+    margin-right: 50px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 40;
+    color: whitesmoke
+}
+li
+{
+    width: 11.5%;
+    font-size: 25;
+    padding-top: 15px;
+}
+li a
+{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.display
+{
+    display: inline-block;
+}
+li a:hover
+{
+    color: orange;
+}
