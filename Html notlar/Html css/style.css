@@ -1,0 +1,64 @@
+.genel
+{
+    height: 620px;
+    width: 100%;
+    background-color: aqua;
+}
+.orta_alan
+{
+width: 80%;
+height: 450px;
+background-color: blueviolet;
+float: left;
+}
+.kategoriler
+{
+    width: 20%;
+    height: 450px;
+    background-color: brown;
+    float: right;
+}
+.menuler
+{
+    width: 100%;
+    height: 50px;
+    background-color:darkkhaki;
+}
+.alt_alan
+{
+    width: 100%;
+    height: 100px;
+    background-color: chartreuse;
+    float: left;
+}
+ul
+{
+    list-style: none;
+}
+li
+{
+    margin-top: 12px;
+    margin-right: 5px;
+    display: inline-block;
+}
+/* li nin içinde a href varsa*/
+li a
+{
+color: crimson;
+}
+li a:hover
+{
+    color: yellow;
+}
+li a:active
+{
+    color: blue;
+}
+.galeri
+{
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    margin-right: 20px;
+    background-color: chartreuse;
+}

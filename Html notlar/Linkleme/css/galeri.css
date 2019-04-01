@@ -1,0 +1,3 @@
+.galeri{width: 250px;height: 125px;display: inline-block;background-color: chocolate; }
+td a{background-color: brown }
+td a:hover{background-color: yellow;}
